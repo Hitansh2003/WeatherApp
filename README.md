@@ -14,6 +14,8 @@ A simple weather app built with **HTML**, **CSS**, and **JavaScript** using the 
 
 ## 🚀 How to Run Locally
 
+https://hitansh2003.github.io/Weather-App-Project/
+
 1. Download or clone this repo:
    ```bash
    git clone https://github.com/YOUR_USERNAME/weather-app.git
@@ -36,9 +38,9 @@ A simple weather app built with **HTML**, **CSS**, and **JavaScript** using the 
 2. Go to **Settings → Pages**.
 3. Under “Source”, choose **branch: `main`** and **root**.
 4. Save — your site will be published at:
-   ```
-   https://YOUR_USERNAME.github.io/weather-app/
-   ```
+   
+   
+
 
 ---
 
