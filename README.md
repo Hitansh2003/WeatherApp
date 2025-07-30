@@ -12,9 +12,9 @@ A simple weather app built with **HTML**, **CSS**, and **JavaScript** using the 
 
 ---
 
-## 🚀 How to Run
+## 🚀 Link to see :
 
-https://hitansh2003.github.io/Weather-App-Project/
+https://hitansh2003.github.io/CodeClauseInternship_WeatherApp/
 
 
 
