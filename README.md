@@ -14,7 +14,7 @@ A simple weather app built with **HTML**, **CSS**, and **JavaScript** using the 
 
 ## 🚀 Link to see :
 
-https://hitansh2003.github.io/CodeClauseInternship_WeatherApp/
+https://hitansh2003.github.io/WeatherApp/
 
 
 
